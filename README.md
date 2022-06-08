@@ -1,2 +1,2 @@
-# keymaps
-The custom keymapping I use for custom split orthilinear keyboard
+# keymaps (for QMK firmware)
+The keymap I use
